@@ -1,7 +1,9 @@
 import com.faangx.ktp.basics.MultiplicationTableMiniApp
 
 fun printTable(num: Int) {
-    TODO()
+for (it in 10..50){
+    println("$num*${it}=${num*(it)}")
+}
 }
 
 fun main() {

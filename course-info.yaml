@@ -5,6 +5,14 @@ summary: Learn Kotlin to become a SWE
 programming_language: Kotlin
 content:
   - ProgrammingFundamentals
+additional_files:
+  - name: LICENSE
+  - name: README.md
+  - name: detekt.yml
+  - name: ChangeLog.md
+  - name: build.gradle.kts
+  - name: gradle.properties
+  - name: settings.gradle.kts
 mode: Study
 tags:
   - v3.0
@@ -14,3 +22,4 @@ environment_settings:
 solutions_hidden: true
 vendor:
   name: Lavish Swarnkar
+yaml_version: 5
