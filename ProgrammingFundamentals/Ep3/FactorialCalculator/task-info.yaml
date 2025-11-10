@@ -4,34 +4,34 @@ files:
     visible: true
     placeholders:
       - offset: 94
-        length: 6
+        length: 88
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 94
         initialized_from_dependency: false
         encrypted_possible_answer: QXnFAyDVRaVNL1MehC2gGWRg0od3918bekOJ5MSYDT2G0Z4Byv3aqLfEjqWjlnadCgW4V91CcvZyI63o91tD+x01ril0BptxM2nZk5scm2CaT9tV4J4INMIfGM6XTDGA
-        selected: false
+        selected: true
         status: Unchecked
-      - offset: 153
-        length: 6
+      - offset: 234
+        length: 108
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 153
         initialized_from_dependency: false
         encrypted_possible_answer: m+59XKVbsT2JVQlmzhL1ufUkuS7Jx61y80VVcUuEG0G9d6pXWfZxD1d4pabzcw39R0qZfDUXOgn46NflRRcDqCHLIpC88OGKik9BgMmr+TQBr/WjqduI7It2OeuxhC0obmEg54l37gEGPFTdA0UyZQ==
-        selected: false
+        selected: true
         status: Unchecked
-      - offset: 212
-        length: 6
+      - offset: 395
+        length: 41
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 212
         initialized_from_dependency: false
         encrypted_possible_answer: kJPlz9jdCKBWr88YEm6YZws3WIrXRp+dSLqhUj8A2KrfOG9egGDAzPnww2nAAhn7
-        selected: false
+        selected: true
         status: Unchecked
     learner_created: false
   - name: test/Tests.kt
